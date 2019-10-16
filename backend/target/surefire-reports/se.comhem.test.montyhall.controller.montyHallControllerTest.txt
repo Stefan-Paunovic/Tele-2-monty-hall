@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: se.comhem.test.montyhall.controller.montyHallControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.102 s <<< FAILURE! - in se.comhem.test.montyhall.controller.montyHallControllerTest
+initializationError(se.comhem.test.montyhall.controller.montyHallControllerTest)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
